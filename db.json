@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "email": "testuser@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "ac75",
+      "fullName": "Khalil Charanek",
+      "email": "khalil.a.charanek@net.usek.edu.lb",
+      "phone": "76852300",
+      "post": "backend developper",
+      "password": "kchk.9804",
+      "jobType": "Internship"
+    },
+    {
+      "id": "28c4",
+      "fullName": "charbel salloum",
+      "email": "charbel@gmail.com",
+      "phone": "70789614",
+      "post": "UI/UX",
+      "password": "charbel123",
+      "jobType": "Full-Time Job"
+    },
+    {
+      "id": "b754",
+      "fullName": "ali moussawi",
+      "email": "alimoussawi@gmail.com",
+      "phone": "70785234",
+      "post": "backend developper",
+      "password": "11223456",
+      "jobType": "Full-Time Job"
+    },
+    {
+      "id": "9c0f",
+      "fullName": "najib",
+      "email": "najib@hotmail.com",
+      "phone": "79285232",
+      "post": "unun",
+      "password": "123456",
+      "jobType": "Part-Time Job"
+    },
+    {
+      "id": "23a8",
+      "fullName": "Khalil Charanek",
+      "email": "khalil.a.charanek@net.usek.edu",
+      "phone": "70456786",
+      "post": "backend developper",
+      "password": "khavsf4578",
+      "jobType": "Full-Time Job"
+    }
+  ]
+}
